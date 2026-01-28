@@ -122,4 +122,7 @@ public class entrenadores {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 
+	
+	
+	
 }
